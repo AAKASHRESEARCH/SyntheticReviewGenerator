@@ -15,7 +15,7 @@ Clone the Repository:
 
 Powwershell
 Copy code
-git clone https://github.com/your-username/synthetic-review-generator.git
+git clone https://github.com/AAKASHRESEARCH/synthetic-review-generator.git
 cd synthetic-review-generator
 Install Dependencies: Install the required packages using pip:
 
