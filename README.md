@@ -54,5 +54,5 @@ Hugging Face Transformers for providing pre-trained models.
 PyTorch for its powerful deep learning framework.
 Feel free to adjust any sections according to your project's specifics, including the installation instructions, usage examples, and any other relevant details!
 
-
+Reference - https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp/learn/lecture/45515033#overview
 
